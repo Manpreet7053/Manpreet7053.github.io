@@ -1,0 +1,1 @@
+Copy your resume PDF here and rename it MANPREET_KAUR_RESUME.pdf. Then replace the # links in index.html with your real GitHub, LinkedIn, DHEIS Live App, and project repository URLs.
