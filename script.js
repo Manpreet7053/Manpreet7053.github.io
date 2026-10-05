@@ -1,0 +1,1 @@
+document.querySelectorAll(".placeholder").forEach(a=>a.addEventListener("click",e=>{e.preventDefault();alert("Replace this # link with your real GitHub, LinkedIn, or Live App URL.")}));
